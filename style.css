@@ -137,7 +137,8 @@ Switch to master branch and run : git merge profile
 git push origin master to publish our changes on git
 
 /*delete branch locally
-git branch -d localBranchName
+git branch -d profile
 
 delete branch remotely
-git push origin --delete remoteBranchName*/
+git push origin --delete profile
+*/
