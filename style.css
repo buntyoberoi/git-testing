@@ -1,9 +1,9 @@
 body {
-	color: #404040;
-	font-family: 'Helvetica', Arial, sans-serif;
-	font-size: 18px;
-	line-height: 1.5;
-  background: hsl(0, 0%, 96%);
+  color: #404040;
+  font-family: 'Helvetica', Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  background: #3e1a1acc;
 }
 
 h1 {
