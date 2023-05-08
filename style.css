@@ -131,3 +131,13 @@ img {
         margin-bottom: 2em;
     }
 }
+
+/*How to merge my branch with master
+Switch to master branch and run : git merge profile
+git push origin master to publish our changes on git
+
+/*delete branch locally
+git branch -d localBranchName
+
+delete branch remotely
+git push origin --delete remoteBranchName*/
